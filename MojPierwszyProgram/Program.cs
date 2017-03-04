@@ -16,7 +16,6 @@ namespace MojPierwszyProgram
             var color = Console.ReadLine();
             Console.WriteLine($"Cieszę się, że Twój ulubiony kolor to {color}" );
             Console.ReadKey();
-            //
         }
     }
 }
