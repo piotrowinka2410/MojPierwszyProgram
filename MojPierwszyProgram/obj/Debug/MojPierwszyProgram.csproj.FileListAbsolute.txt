@@ -1,0 +1,6 @@
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\bin\Debug\MojPierwszyProgram.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\bin\Debug\MojPierwszyProgram.exe
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\bin\Debug\MojPierwszyProgram.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\obj\Debug\MojPierwszyProgram.csprojResolveAssemblyReference.cache
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\obj\Debug\MojPierwszyProgram.exe
+c:\users\sabina\documents\visual studio 2015\Projects\MojPierwszyProgram\MojPierwszyProgram\obj\Debug\MojPierwszyProgram.pdb
